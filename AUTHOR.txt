@@ -1,0 +1,18 @@
+Este proyecto fue desarrollado de manera autónoma por:
+Diomer Alfonso Sandoval,
+Karen Dayana Ruiz,
+Juan David Carrillo
+Anderson Eduardo Carvajal y
+Pedro Eduardo Cruz.
+Como parte de la asignatura Electiva IV (Seguridad Computacional) de la UPTC
+
+El trabajo incluye:
+- Implementación del cifrado y descifrado de Vigenère
+- Módulo de normalización strict/lax
+- Validación de entradas y manejo de errores
+- Interfaz gráfica en Tkinter para cifrado, descifrado y análisis
+- Criptoanálisis básico con el método de Kasiski y análisis de frecuencias
+
+Declarando que el desarrollo del código, las pruebas y la documentación
+fueron realizados sin asistencia automática, salvo herramientas de apoyo
+permitidas para edición de texto y gestión del proyecto.
